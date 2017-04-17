@@ -2,10 +2,10 @@
 Clustering important economic factors that affect the GDP of a country and based on these indicators predict GDP of that country.
 
 ## Cleaning Additional indicator file
-```cd DataCleaning/Programs
-pwd``` 
+```cd DataCleaning/Programs```
+```pwd``` 
 
->/home/hadoop/World-GDP-Prediction-and-Analysis/DataCleaning/Programs
+/home/hadoop/World-GDP-Prediction-and-Analysis/DataCleaning/Programs
 
 **Cleaning raw data files in ../rawDataFile ===>** *ALL_COMMODITY_EXPORT_DATA.txt, Crude_Oil_Export.txt, Crude_Oil_Import.txt, External_Debt_stock.txt, Natural_Gas-Export.txt, Natural_Gas-Import.txt, Net_barter_term_of_trade.txt, Time_require_to_start_a_business.txt*
 
