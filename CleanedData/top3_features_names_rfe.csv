@@ -1,0 +1,31 @@
+top1,top2,top3,country
+workingPop,ppp,oilImport,Canada
+unemployment,oilPrice,broadMoney,United States
+ppp,totalReserves,tradeExport,Australia
+inflation,tradeExport,oilPrice,United Kingdom
+workingPop,naturalGasExport,ppp,Norway
+techExport,oilImport,broadMoney,Sweden
+naturalGasImport,totalReserves,oilPrice,Denmark
+naturalGasExport,totalReserves,oilImport,Netherlands
+gasPrice,inflation,tradeExport,South Africa
+exchangeRate,researcherPer1k,lendingInterest,Japan
+ppp,cropProduction,ppi,France
+ppp,ppi,oilImportPrice,Italy
+pollution,oilProd,inflation,Mexico
+oilImportPrice,unemployment,oilPrice,Spain
+newBusinessDiff,lendingInterest,oilImportPrice,Greece
+ppi,lendingInterest,oilImportPrice,Finland
+lendingInterest,ppi,shortTermInterest,Germany
+techExport,lendingInterest,oilImportPrice,Belgium
+naturalGasImport,totalReserves,unemployment,Ireland
+tradeExport,oilImportPrice,researcherPer1k,Portugal
+shortTermInterest,totalReserves,lendingInterest,India
+unemployment,totalIndProd,tradeImport,Iceland
+ppi,longTermInterest,oilProd,New Zealand
+ppi,importExportRatio,unemployment,Switzerland
+researcherPer1k,totalIndProd,naturalGasImport,Israel
+pollution,gasPrice,ppp,Brazil
+gasPrice,unemployment,naturalGasExport,China
+debt,newBusinessDiff,workingPop,Singapore
+workingPop,oilExport,lendingInterest,Russian Federation
+gasPrice,unemployment,oilPrice,Saudi Arabia
